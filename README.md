@@ -9,7 +9,7 @@ To run the code in the commandline:
 
 2. from the src folder, run:
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a."javac com\company\*.java"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a."javac com\company\\*.java"
 
 &nbsp;&nbsp;&nbsp; 3. After creating the class files, run "java com.company.Main"
 
