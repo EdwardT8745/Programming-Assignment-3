@@ -31,7 +31,7 @@ public class Sensor extends Thread{
 //        }, 60, SECONDS);
         for(int i=0; i<60; i++){
             //int num = rand.nextDouble(-100, 70+1);
-            double num = rand.nextDouble(-100, 70);
+            double num = (170*rand.nextDouble())-100;
 
             if(high.get()<num){
                 high.set(num);
