@@ -5,7 +5,7 @@ The code for problem 1 is in "birthdayPresents" folder.
 
 To run the code in the commandline:
 
-1. move to the into the company folder from "birthdayPresents" by:
+1. From birthdayPresents, move to the into the company folder by:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cd src\com\company"
   
