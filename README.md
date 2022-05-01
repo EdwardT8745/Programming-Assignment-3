@@ -9,7 +9,7 @@ To run the code in the commandline:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cd src\com\company"
   
-&nbsp;&nbsp;&nbsp; 2.run "javac *.java"
+&nbsp;&nbsp;&nbsp; 2. run "javac *.java"
 
 &nbsp;&nbsp;&nbsp; 3. After creating the class files, move back into the src folder 
 
