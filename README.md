@@ -5,13 +5,14 @@ The code for problem 1 is in "birthdayPresents" folder.
 
 To run the code in the commandline:
 
-1. move to the src folder
-
-2. from the src folder, run:
+1. move to the into the company folder from "birthdayPresents" by:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cd src\com\company"
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a."javac com\company\\*.java"
+&nbsp;&nbsp;&nbsp; 2.run "javac *.java"
 
-&nbsp;&nbsp;&nbsp; 3. After creating the class files, run "java com.company.Main"
+&nbsp;&nbsp;&nbsp; 3. After creating the class files, move back into the "src" folder 
+
+&nbsp;&nbsp;&nbsp; 4. run "java com.company.Main" from the src folder
 
 The code runs with 4 servants/threads. The servants will grab a present first from the bag and put it in the chain. After that, the servant will grab the top "thank you" card from a stavk and check if the corresponding present is in the chain. If it is, the servant will take the present out of the chain and make sure to connect the predecessor’s link with the next gift in the chain. If the gift is not in the chain, the servant puts the tag back in the stack of cards at the bottom.
 
